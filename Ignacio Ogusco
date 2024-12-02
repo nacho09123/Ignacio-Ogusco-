@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portafolio de Ignacio David Ogusco Manrique</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #4CAF50;
+            color: white;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        section {
+            margin: 20px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+      
+        h2 {
+            color: #4CAF50;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin: 5px 0;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px;
+            background: #f4f4f4;
+            border-top: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ignacio David Ogusco Manrique</h1>
+        <p>Bienvenido a mi página personal</p>
+    </header>
+
+    <section>
+        <h2>Cursos Terminados</h2>
+        <ul>
+            <li>Curso de matemiatica </li>
+            <li>quimica 1</li>
+            <li>Introducción a la vida universitaria t</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Cursos Actuales</h2>
+        <ul>
+            <li></li>
+            <li>Curso de matematica 2</li>
+            <li>quimica 2</li>
+        </ul>
+    </section>
+    <footer>
+        <p>&copy; 2024 Ignacio David Ogusco Manrique. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
